@@ -55,8 +55,6 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Use Node.js and Express.js to build a RESTful API for handling client requests and serving as the application's backend.
 
-    Implement authentication and authorization using JSON Web Tokens (JWT) and middleware to protect endpoints.
-
 - Database:
 
     Store all data, including user information, expense entries, and categories, in MongoDB, a NoSQL database.
